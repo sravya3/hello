@@ -1,5 +1,5 @@
 class Trail{
 	public static void main(String args[]){
-	System.out.println("upate2");
+	System.out.println("check trigger");
 	}
 }
